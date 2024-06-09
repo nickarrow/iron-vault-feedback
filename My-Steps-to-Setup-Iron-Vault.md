@@ -6,7 +6,7 @@ This list identifies what I did when setting up a brand new iron vault campaign.
 	2. If you do one vault per character/campaign, you’ll be able to eventually just merge all your vaults together when support is added for that.
 2. Enable community plugins 
 3. Add the Iron-Vault plugin (via BRAT for now)
-4. Turn on `Inline tracks and clock on creation` - this is personal preference, but I really like how it makes the journal look. 
+4. ~~Turn on `Inline tracks and clock on creation` - this is personal preference, but I really like how it makes the journal look.~~ I actually scrapped this after a few tries because gave me very odd behavior. I think this wil be great in the future.
 5. Create the following folders in root of the vault:
 	1. Truths
 	2. Characters

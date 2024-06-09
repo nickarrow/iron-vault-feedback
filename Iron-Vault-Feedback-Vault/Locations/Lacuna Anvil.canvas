@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"f73b791503898f56","type":"text","text":"Settlement [[Amity]]","x":680,"y":200,"width":205,"height":67},
+		{"id":"b26db4b803f91d5b","type":"text","text":"Planet - [[Abis Prime]]","x":-40,"y":340,"width":250,"height":60},
+		{"id":"21fb98033d8243a3","x":320,"y":660,"width":250,"height":60,"type":"text","text":"Planet - [[Boreas]]"},
+		{"id":"ecb44d18e7a18434","type":"text","text":"Settlement - [[Nyx]]","x":380,"y":760,"width":250,"height":60},
+		{"id":"060cfdc67a505267","type":"text","text":"Settlement - [[Rockhome]]","x":0,"y":440,"width":250,"height":60},
+		{"id":"93cd7dc8dc4cd1ed","x":420,"y":-100,"width":150,"height":50,"type":"text","text":"The Kestral"}
+	],
+	"edges":[
+		{"id":"7a1703ab6284a056","fromNode":"21fb98033d8243a3","fromSide":"bottom","toNode":"ecb44d18e7a18434","toSide":"top","toEnd":"none"},
+		{"id":"531e0c87e5704cd5","fromNode":"060cfdc67a505267","fromSide":"left","toNode":"b26db4b803f91d5b","toSide":"left","toEnd":"none"},
+		{"id":"8f6e0cd1588c5a79","fromNode":"060cfdc67a505267","fromSide":"right","toNode":"f73b791503898f56","toSide":"left","toEnd":"none"},
+		{"id":"b9b5c0b3cb4d561e","fromNode":"060cfdc67a505267","fromSide":"bottom","toNode":"21fb98033d8243a3","toSide":"left","toEnd":"none"}
+	]
+}

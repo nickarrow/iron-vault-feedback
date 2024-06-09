@@ -1,4 +1,9 @@
 # Feedback Note
+## General
+1. Creating this Starforged world took a bit of time, but this was actually a good thing. Spending time on Truths, and rolling oracles for the sector, locations, NPCs, etc really helped me become engrossed in this campaign. There's something very special about being able to invoke the oracles/moves in-line while you write. For me, I am usually playing late at night, and I can't really "talk all of my ideas outloud". Being able to write in Obsidian, and then invoke the various oracles in line is actually quite magical.
+2. I am playing on an iPad, so my limitations are Obsidian Mobile and screen size. I ended up using the Minimal plugin because that gave me more control over font, sidebar sizes, and whatnot. I found myself often enjoying having open the left sidebar to navigate around notes, and the right sidebar for all the awesome Iron-Vault things.
+3. Can't wait to play Session 1 tonight!
+
 ## Bugs
 1. There is a strange zero in my character sheet and I have no idea what it is: <img width="1180" alt="Pasted image 20240608212653" src="https://github.com/nickarrow/iron-vault-feedback/assets/40185621/69802692-2c28-40a7-82d9-4efa98bea195">
 
